@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Criminal investigation command</title>
-	<link rel="stylesheet" href="style.css" type="text/css">
+	<link rel="stylesheet" href="style.md" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
